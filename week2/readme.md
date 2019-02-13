@@ -64,6 +64,7 @@ Types and collections:
 2. Playing with data types: https://github.com/Tobichimaru/Python/blob/master/Types%2C%20Intro.ipynb
 3. String types: https://github.com/Tobichimaru/Python/blob/master/Strings%20Files%20and%20Bytes.ipynb
 4. Collections: https://github.com/Tobichimaru/Python/blob/master/Collections.ipynb
+5. Data models: https://docs.python.org/3/reference/datamodel.html
 
 Clean code and testing:
 1. Clean code, pep: https://github.com/Tobichimaru/Python/blob/master/Clean%20code.ipynb
