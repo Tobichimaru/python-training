@@ -4,7 +4,7 @@
 1. What is the scopes? For what LEGB stands for?
 2. What is `nonlocal` and `global`?
 3. Provide some examples of decorators.
-4. For which purpose can we use `@functools.wraps(func)`, `@functools.singledispatch`
+4.* For which purpose can we use `@functools.wraps(func)`, `@functools.singledispatch`
 5. What does this mean: `*args, **kwargs`? And why would we use it?
 
 
