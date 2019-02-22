@@ -111,4 +111,4 @@ print(strip_punctuations(s))
 
 3. Define a context manager `InfoLogger`, which will open a file `logs-info.txt`, write logs in it (e.g. called `logger.log('Some log')`), and closes the files and resources when exiting a context. 
 
-4. Define a context manager that will measure exection time of enclosed code. Make use of (timeit)[https://docs.python.org/3/library/timeit.html ] lib.  
+4. Define a context manager that will measure exection time of enclosed code. Make use of [timeit](https://docs.python.org/3/library/timeit.html) lib.  
