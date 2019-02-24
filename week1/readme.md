@@ -1,3 +1,5 @@
+This is an introductary week in order to see the level and coding samples. 
+
 1. video https://compscicenter.ru/courses/python/2015-autumn/classes/ 
 2. syllable https://github.com/Tobichimaru/Python
 
