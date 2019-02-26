@@ -16,9 +16,8 @@
 
 Overview:
 1. (ipython): https://github.com/Tobichimaru/Python/blob/master/Classes%20and%20OOP.ipynb
-
-TO DO: add more materials
+2. MRO https://habr.com/ru/post/62203/
 
 ### Tasks
 
-TO DO: add task 
+There is no practical tasks this week! 
