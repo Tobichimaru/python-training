@@ -7,7 +7,7 @@
 
 ### Materials: 
 
-1. (ipython) (GIL and GC)[https://github.com/Tobichimaru/Python/blob/master/GIL%2C%20GC.ipynb]
+1. (ipython) https://github.com/Tobichimaru/Python/blob/master/GIL%2C%20GC.ipynb
 2. Garbage collection:
 	* https://asvetlov.blogspot.com/2013/05/gc.html
 	* https://habr.com/ru/post/417215/
