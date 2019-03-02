@@ -21,6 +21,6 @@
 
 1. Suppose you have two methods that generate odd and even numbers. Your task is to output
 a range of numbers from 1 to 100 sequentially using these two methods.
-2. Solve the task about (dining philosophers problem)[https://ru.wikipedia.org/wiki/Задача_об_обедающих_философах]. 
+2. Solve the task about [dining philosophers problem](https://ru.wikipedia.org/wiki/Задача_об_обедающих_философах). 
 The essence of the problem is to develop a model of behavior (parallel algorithm), in which none of the philosophers will starve, that is, will always alternate food intake and reflection (the philosopher must begin with thinking).
 Take a look into the interface given in this week module. Feel free to implement a new class that implement a `Fork` or `Philosopher` class.
