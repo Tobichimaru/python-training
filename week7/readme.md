@@ -10,11 +10,12 @@
 7. For what ACID stands for? 
 8. How index works in a relational database? 
 9. What is clustered, non-clustered index?
+10. No-SQL and SQL - differences, use-cases
 
 ### Materials: 
 
 1. Main definitions for databases (rus): [link](http://informatic.ugatu.ac.ru/lib/office/proekt.htm)
-2. Nice Quora thread about CAD and ACID: [link](https://www.quora.com/What-is-the-relation-between-SQL-NoSQL-the-CAP-theorem-and-ACID)
+2. Nice Quora thread about CAP and ACID: [link](https://www.quora.com/What-is-the-relation-between-SQL-NoSQL-the-CAP-theorem-and-ACID)
 3. Indexing [link1](https://stackoverflow.com/questions/1251636/what-do-clustered-and-non-clustered-index-actually-mean) and [link2](https://stackoverflow.com/questions/1108/how-does-database-indexing-work)
 
 ### Tasks
