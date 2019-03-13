@@ -11,6 +11,7 @@
 8. How index works in a relational database? 
 9. What is clustered, non-clustered index?
 10. No-SQL and SQL - differences, use-cases
+11. Sessions and transactions: commmit, rollback. 
 
 ### Materials: 
 
