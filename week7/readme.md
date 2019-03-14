@@ -2,16 +2,16 @@
 ### Questions:
 
 1. What DB types do you know? What are their differences? 
-2. What is Normal Forms in relational databases? 
+2. (\*) What is Normal Forms in relational databases? 
 3. How to implement many to many relationship? 
 4. In what cases should we use primary key, foreign key?
 5. What is the difference between outer/inner/left/right joins? 
-6. Formulate CAP theorem
-7. For what ACID stands for? 
-8. How index works in a relational database? 
-9. What is clustered, non-clustered index?
-10. No-SQL and SQL - differences, use-cases
-11. Sessions and transactions: commmit, rollback. 
+6. (\*\*) Formulate CAP theorem
+7. (\*) For what ACID stands for? 
+8. (\*\*) How index works in a relational database? 
+9. (\*) What is clustered, non-clustered index?
+10. (\*) No-SQL and SQL - differences, use-cases
+11. (\*) Sessions and transactions: commmit, rollback. 
 
 ### Materials: 
 
